@@ -1,0 +1,3 @@
+KPA (known plaintext attack) on the zip file.
+Use zip (linux tool) to create plaintext zip
+Then pkcrack

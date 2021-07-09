@@ -1,0 +1,8 @@
+encrypted message: 59
+key: (221, 37)
+
+n = 221
+e = 37
+
+c = 59
+

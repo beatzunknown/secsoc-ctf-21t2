@@ -1,0 +1,23 @@
+XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+
+L34KS at pos 6
+XXXXX-L34KS-XXXXX-XXXXX-XXXXX
+
+BDQC3 in seg0
+BDQC3-L34KS-XXXXX-XXXXX-XXXXX
+
+hex \x16\x10s\xb3% XOR %S!\x83q
+BDQC3-L34KS-3CR0T-XXXXX-XXXXX
+
+cseg3_4(&var_26, 0x134, 0x2d4)
+sum of chars = 0x134 = 308
+
+sum of code[4-i]*i = 0x2d4 = 724
+0x30*4 = 192
+532
+
+
+a + b + c + d + e = 308
+4*a + 3*b + 2*c + 1*d = 724
+simultaneous equation solver
+
